@@ -253,12 +253,12 @@
     .head {
         justify-content: baseline;
         align-items: center;
-        height: 90vh;
+        height: 80vh;
         width: 90% !important;
         background-color: white;
         flex-direction: column;
         text-align: center;
-        margin-top: 590px;
+        margin-top: 620px;
         display: none;
         margin-left: -1200px;
         transition: ease-in-out all .5s;
